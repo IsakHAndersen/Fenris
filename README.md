@@ -1,4 +1,4 @@
-# Fenris https://fenrisblockwebapp-e7djgyfyggcae9ds.westeurope-01.azurewebsites.net/ 
+# Fenris 
 
 Windows App that allows the user to select apps and domains to block.
 The user can then create a schedule, which enforces these blocks based on said block schedule.
